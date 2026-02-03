@@ -8,8 +8,11 @@ Day 1 pendidikan RSC Aksantara secara resmi dimulai, kandungan day pendidikan in
 ### 30/01/2026
 Pada hari ini, ada day 2 pendidikan RSC Aksantara dengan topik SITL dan juga MAVLINK, kedua topic ini jujurrrr agak challenging bagi aku gara2 beneran dari 0 ketimbang daspro yang udah ada basicnya, setelah begadang dan bingung nguliknya, akhirnya tugas hands on 2 udah selesai, lalu tinggal proses pengeditan video _youtube_, untuk link gist github sudah ada untuk pythonnya dan akan dicantum di classroom sekaligus sama link _youtube_-nya. Kayaknya aku juga bakal cantumin link di _description_ video youtube juga nantinya.
 
-### 31/01/2025
+### 31/01/2026
 Hari pertama yang renggang tanpa day, kondisi kesehatan pada hari ini juga lagi agak down tapi untung masih manageable, hari ini aku sedang berusaha buat lanjut pengerjaan tugas hands-on 1, dan belajar lebih lanjut mengenai OOP dan C++.
 
-### 01/02/2025
+### 01/02/2026
 Pada hari ini, ada day 3 pendidikan RSC Aksantara dan day pada hari ini membahas mengenai masing-masing penjurusan, aku kebetulan memilih jurusan ConCept jadi aku ikut yang materi _computervision and OpenCV_. Seperti biasa, day dilaksanakan secara enak, info yang diberi jelas, dan setiap pertanyaan dijawab dengan baik. Aku juga menemukan video yang aku akan mulai dalami mengenai computervision dan OpenCV [OpenCV_Tutorial](https://youtu.be/2FYm3GOonhk?si=kseRk97SmhxCobxc) Hari ini aku juga lanjut ngerjain hands-on 1 dan alhamdulillah bisa selesai hari ini, tinggal revisi beberapa file agar lebih enak dibaca dan dibuat _release_ pada github. 
+
+### 03/02/2026
+Pada hari ini, aku mulai mengerjakan tht2 dan hands-on 3 untuk ConCept, untuk tht2, baru mengerjakan soal nomor 2 untuk GCS, karena untuk penjurusan aku kurang mendalami di GCS aku baru mengisi seadanya dulu sih huhu, selanjutnya untuk hands-on 3 aku mengerjakan dari yang virtual environment, untuk implementasi aku baru akan mengerjakan di esok hari, karena belum bisa run ubuntu karena lagi _mobile_, semoga besok tht2 bisa dikerjain sebisanya, dan hands-on 3 bisa setengah jadi 
