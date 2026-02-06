@@ -16,3 +16,9 @@ Pada hari ini, ada day 3 pendidikan RSC Aksantara dan day pada hari ini membahas
 
 ### 03/02/2026
 Pada hari ini, aku mulai mengerjakan tht2 dan hands-on 3 untuk ConCept, untuk tht2, baru mengerjakan soal nomor 2 untuk GCS, karena untuk penjurusan aku kurang mendalami di GCS aku baru mengisi seadanya dulu sih huhu, selanjutnya untuk hands-on 3 aku mengerjakan dari yang virtual environment, untuk implementasi aku baru akan mengerjakan di esok hari, karena belum bisa run ubuntu karena lagi _mobile_, semoga besok tht2 bisa dikerjain sebisanya, dan hands-on 3 bisa setengah jadi 
+
+### 04/02/2026
+Pada hari ini, aku menyelesaikan THT2 sesuai deadline untungnya, dan juga aku mulai lanjut mengerjakan hands-on 3 khususnya di pelatihan model YOLOv8, aku belajar tentang prosedur-prosedur _machine learning_, dengan tambahan belajar untuk cara _annotate_ menggunakan label-studio. Pada awalnya, aku salah mengartikan instruksi dan hanya meng-_annotate_ 5 frame, sedangkan yang diminta adalah pemisahan 5 frame untuk dilakukan sebagai _testing_. Untungnya, aku menyadari hal ini sebelum pergantian hari.
+
+### 05/02/2026
+Pada hari ini, aku melanjutkan pengerjaan hands-on 3 pada bagian pelatihan model YOLO. Pada awalnya, aku mengalami banyak error hingga harus melakukan _troubleshooting_ yang cukup banyak, namun aku dapat menyelesaikannya dan akhirnya dapat dikumpulkan sesuai deadlinenya. Pada hari ini juga ada day 4 pendidikan RSC Aksantara sesuai pennjurusan, untuk penjurusan ConCept terdapat pemaparan ROS dan penurunan praktikum ROS2 yang akan dilaksanakan di esok hari.
